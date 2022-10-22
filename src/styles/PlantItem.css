@@ -2,6 +2,7 @@
   height: 220px;
   width: 220px;
   border-radius: 20px;
+  object-fit: cover;
 }
 
 .lmj-plant-item {
