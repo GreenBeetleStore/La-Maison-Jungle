@@ -1,11 +1,7 @@
 import "../styles/Banner.css";
 
-function Banner() {
-  return (
-    <div className="lmj-banner">
-      <h1>La Maison Jungle 🌴</h1>
-    </div>
-  );
+function Banner({ children }) {
+  return <div className="lmj-banner">{children}</div>;
 }
 
 export default Banner;
