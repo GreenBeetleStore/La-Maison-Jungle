@@ -5,4 +5,3 @@ function Banner({ children }) {
 }
 
 export default Banner;
-                                                                                                                                                                        
