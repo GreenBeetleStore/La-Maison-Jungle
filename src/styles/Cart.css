@@ -22,6 +22,7 @@
 	align-self: self-start;
 	padding: 0;
 	color: white;
+  align-self: flex-end;
 }
 
 .lmj-cart-closed {
